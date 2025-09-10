@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**AlkoK0T/AlkoK0T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently open for full-time **or** part-time remote opportunities in:
 
-Here are some ideas to get you started:
+- Full-Stack Development  
+- Data Science  
+- Python Development  
+- C++ Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm passionate about:
+
+- Developing neural networks  
+- Writing clean, maintainable code  
+- Solving complex problems with creative solutions  
