@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ilya Mayorov 👋
 
 🚀 I'm currently open for full-time **or** part-time remote opportunities in:
 
