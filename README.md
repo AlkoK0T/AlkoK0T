@@ -12,3 +12,5 @@
 - Developing neural networks  
 - Writing clean, maintainable code  
 - Solving complex problems with creative solutions  
+- Soldering and programming custom hardware devices  
+
