@@ -22,6 +22,11 @@
 
 **Other:** SQL, Git
 
+## Featured Projects
+
+- 🧮 **[MLP from Scratch](https://github.com/AlkoK0T/Network-for-forecasting-Portugal-wine-quality)** — Multilayer perceptron implemented in pure NumPy, no frameworks, to understand backpropagation and optimization internals.
+- 🔧 **[Embedded ML](https://github.com/AlkoK0T/ESP32_Car_Recognition)** — Lightweight neural network optimization for ESP32 (model compression under memory/compute constraints).
+
 ## Also interested in
 
 - Full-stack and hardware projects - soldering and programming custom devices (ESP32) on the side
