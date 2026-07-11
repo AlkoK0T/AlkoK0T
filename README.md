@@ -26,6 +26,8 @@
 
 - 🧮 **[MLP from Scratch](https://github.com/AlkoK0T/Network-for-forecasting-Portugal-wine-quality)** — Multilayer perceptron implemented in pure NumPy, no frameworks, to understand backpropagation and optimization internals.
 - 🔧 **[Embedded ML](https://github.com/AlkoK0T/ESP32_Car_Recognition)** — Lightweight neural network optimization for ESP32 (model compression under memory/compute constraints).
+- 🔍 **RAG Test Assistant** — Retrieval-augmented assistant for answering test questions: computer vision for question recognition, FAISS for embedding-based semantic search over an answer database.
+- 👁️ **Auto-Annotation Pipeline** — Automated dataset labeling pipeline using Grounded-SAM and VLMs (Qwen2.5-VL, GPT-4o), integrated into CVAT via serverless functions on Nuclio.
 
 ## Also interested in
 
